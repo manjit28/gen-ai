@@ -1,0 +1,14 @@
+In a podcast published on Friday, Mark Zuckerberg reiterated industry concerns that energy supply would soon become the major challenge to the further development of artificial intelligence (AI). These concerns echoed Elon Musk's warning from last month, that AI could exceed energy capacity as early as next year. According to Musk, AI technology is advancing at an exponential rate; by a factor of ten every six months. That rate of growth has reached a point where it is straining both chip manufacturing capacity and energy capacity.
+
+Big tech companies such as Alphabet Inc. (Google), Microsoft, and Amazon.com are rapidly expanding their AI capabilities and that is pushing them into more and larger data centers. According to ArsTechnica, the three companies combined are projected to spend over US$120 billion on data center expansion in 2025. This increased demand for data centers will increase the demand for energy. At the current expansion rate, energy demand could surpass supply.
+
+Zuckerberg, co-founder of Meta AI, an AI-development laboratory, anticipates the need for 1-gigawatt data centers, a capacity that has not yet been achieved. According to Zuckerberg, building power plants to supply that amount of energy will take time. "If we wanted to stand up some massive facility, to power that is a very long-term project. I think [some people will] do it, but I don't think this is something that can be quite as magical as 'you get a level of AI, get a bunch of capital, and put it in [a big data center].'"
+
+	The simultaneous growth of electric cars and AI...is creating a tremendous demand for electrical equipment and for electrical power generation.	
+—Elon Musk
+
+According to Zuckerberg, one of the hurdles to expanding power supply quickly is government regulation. "When you're talking about building large new power plants or large build-outs and building transmission lines that cross public or private land ... you're talking about many years of lead time."
+
+Compounding the issue, the electronic vehicle (EV) market is competing with the AI industry for energy supply. In a teleconference video for the Bosch Connected World conference, Musk said “The simultaneous growth of electric cars and AI, both of which need electricity, both of which need voltage transformers – I think, is creating a tremendous demand for electrical equipment and for electrical power generation."
+
+What could this mean for the future of AI, EVs, and global energy supply and demand? We may already be experiencing its effects. In Ireland, Amazon Web Services (AWS) customers reportedly faced restrictions on launching new resources from its Irish data centers. The Register attributes these restrictions to limited energy supply for AWS data centers in Ireland.
